@@ -5,57 +5,55 @@
         "text": "Food is being wasted at an alarming rate. And we - consumers - are the largest source of it. More than grocery stores and restaurants combined. But there's good news: we can do something about it. Everything we need is right here (and in our fridges)."
     },
     "About": {
-        "paragraph": "Our aim is to redistribute surplus food and water to the individuals who are needing it. If any event like a wedding or party has excess of food and water it will be collected from that location and distributed among the people who need it in the nearest area through our project. Thus this would prevent wastage of food and water and would also benefit the weaker section of the society who are unable to afford these meals..",
+        "paragraph": "CHCT India Aspires Contribute Towards Society By Initiating Training And Development Programs for poor and Underprivilege Sections Of The Society And Developing Opportunities To Underprivileged Sections Of The Society. Raising Voice Against Any Injustice Irrespective of Gender,Casts,Religion And Race,Providing a Better Future To Them Is One Of Our Key Vision. ",
         "Why": [
-            "One-stop Solution",
-            "Guaranteed Delivery",
-            "Easy Availability",
-            "Government Approved"
+            "CHCT",
+            "Works In the Field of community development",
+            "Women Empowerment",
+            "Human right Protection"
         ],
         "Why2": [
-            "Saving Food",
-            "Helping the Needy",
-            "NGOs approved",
-            "Clean Drinking Water"
+            "Child Welfare",
+            "Education",
+            "Child development",
+            "Starvation"
         ]
     },
     "Services": [{
-            "link": "https://forms.gle/bJQgECDYohMx4twA9",
             "icon": "fa fa-credit-card",
             "name": "Donate",
-            "text": "India wastes nearly 67 million and It amounts to Rs93,000 cr worth of food, which means it can feed the most populous state of Bihar for a complete year."
+            "text": "OUR DETAILS =>Account HolderName-Chamela Helpdia Charitable Trust Account No......=50200051549023 Bank.....=HDFC Bank IFCS CODE....=HDFC0002434 GOOGLE PAY/PAYTM......=9415687862"
         },
         {
-            "link": "https://forms.gle/ZQL35B5tRPpFjQAE7",
+            
             "icon": "fa fa-lightbulb-o",
             "name": "Volunteer",
             "text": "By volunteering with us, you are helping to pack and distribute meals to thousands of beneficiary and help to end hunger. Duties can be from picking up food items, packing and redistributing."
         },
         {
-            "link": "https://forms.gle/gEVBqaBkNx6HqnSk9",
             "icon": "fa fa-wheelchair",
             "name": "Request Help",
-            "text": "All of us need help sometimes. Now, more than ever, Blumne Charity is here to help you get access to food and clean drinking water."
+            "text": "All of us need help sometimes. Now, more than ever, CHCT is here to help you get access to Donation and moral supoort."
         }
     ],
 
     "Contact": {
-        "address": "XXXXXXXX ",
-        "phone": "XXXXXXXX",
-        "email": "blumencharity@company.com",
+        "address": "Prayagraj Utter Pradesh India ",
+        "phone": "9415687862",
+        "email": "chctindia@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-cutlery",
-            "title": "Preventing Hunger",
-            "text": "Many people are suffering from hunger worldwide. We make everything possible to solve this problem."
+            "title": "MISSION/WHAT WE DO",
+            "text": "At CHCT INDIA, We Strive For Meaningful Change.We Aim To Build A Society That Empowers Every Individual To Reshape Thier Life. Our Mission Is To Provide Sustainable Livelihoods  To Underprivileged Section Of The Society.In Other Words,To Enable People To Take Responsibility For The Situation Of The Poor And Underprivilege Section Of The Society And Also Empowering Them To Help Them In All Possible Ways. To Provide A Platform Where Youth From All Over The Nation Unite To Gather Their Knowledge And Skills For A Good Cause.To Work Together To Make Drastic Change In The Lives Of The Underprivilege By Providing Proper Health Care, Improving Life Standards And Training Them To Excel In Life. "
         },
         {
             "icon": "fa fa-tint",
-            "title": "Provide Clean Drinking Water",
-            "text": "Contaminated water and poor sanitation are linked to transmission of diseases. We make everything possible to solve this problem."
+            "title": "WHO WE ARE",
+            "text": "CHCT INDIA Is a Registered Non-Profit Organisation Based In Prayagraj,Utter Pradesh,That Works In The Field Of Community Development,Child Welfare,Education,Human Right Protection And Women Empowerment.It is Founded By Mr.Ashok Tripathi And Mrs.Saroj Shukla On 28th jan 2016. Our Founders Have Faith In Saying By Aesop,No Act oF kindness,No Matter How Small,Is ever Wasted.At CHCT INDIA,We believe In Bringing a Smile On Faces that desrve It the most But Do Not Have Access To Happiness In Their Lives."
         }
     ]
 }

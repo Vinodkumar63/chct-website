@@ -39,7 +39,7 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Get In Touch</h2>
+                <h2>Get In Touch CHCT</h2>
                 <p>
                   Please fill out the form below to send us an email and we will
                   get back to you as soon as possible.
@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Blumen Charity. Made with{' '}
+            &copy; 2022 CHCT. Made with{' '}
             <i class="fa fa-heart" aria-hidden="true"></i>
           </p>
         </div>
